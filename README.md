@@ -1,12 +1,14 @@
-# 1500AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]
+# 1500AH [[ [Re]generated on 2016-05-18 (17:04:28) ]]
 
 * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
 * `1408CumarKahhala.MucjamMuallifin (TAGS: BIB,BIO,CENT1500,COL,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM)`
 * `1408CumarKahhala.MucjamQabail (TAGS: CENT1500,COL,GEN,PPE,_ANSAB,_MACAJIM)`
 * `1411SayyidKhui.MucjamRijal (TAGS: CENT1500,PPE,_HADITH,_SHICI,_TARAJIM)`
+* `1411SayyidMarcashi.SharhIhqaq (TAGS: CENT1500,_CAQAID,_SHICI,_TWELVERS)`
 * `1418SalihAhmadArkani.TihfaMajalis (TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB)`
 * `1419MahmudTanahi.MujizFiMarajic (TAGS: BIB,CENT1500,PPE,_ADILLA,_FAHARIS,_KUTUB)`
 * `1422MuhammadSalimMuhaysin.MucjamHuffazQuran (TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM)`
+* `1450AkramFaluji.MucjamSaghir (TAGS: CENT1500,_TABAQAT,_TARAJIM)`
 * `1450CabdRahmanAlShaykh.Mashahir (TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM)`
 * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya (TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB)`
 * `1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin (TAGS: BIB,CENT1500,COL,PPE,_TABAQAT,_TARAJIM)`
