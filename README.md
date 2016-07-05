@@ -1,13 +1,16 @@
-# 1500AH [[ [Re]generated on 2016-05-21 (19:21:33) ]]
+# 1500AH [[ [Re]generated on 2016-07-05 (16:25:34) ]]
 
 * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
 * `1408CumarKahhala.MucjamMuallifin (TAGS: BIB,BIO,CENT1500,COL,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM)`
 * `1408CumarKahhala.MucjamQabail (TAGS: CENT1500,COL,GEN,PPE,_ANSAB,_MACAJIM)`
 * `1411SayyidKhui.MucjamRijal (TAGS: CENT1500,PPE,_HADITH,_SHICI,_TARAJIM)`
 * `1411SayyidMarcashi.SharhIhqaq (TAGS: CENT1500,_CAQAID,_SHICI,_TWELVERS)`
+* `1414SalimIbadi.IscafAcyan (TAGS: CENT1500,_ANSAB)`
 * `1418SalihAhmadArkani.TihfaMajalis (TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB)`
 * `1419MahmudTanahi.MujizFiMarajic (TAGS: BIB,CENT1500,PPE,_ADILLA,_FAHARIS,_KUTUB)`
+* `1421HamdJasir.MucjamQabailMCS (TAGS: CENT1500,_ANSAB)`
 * `1422MuhammadSalimMuhaysin.MucjamHuffazQuran (TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM)`
+* `1429BakrIbnCabdAllah.TabaqatNassabin (TAGS: CENT1500,_TABAQAT,_TARAJIM)`
 * `1450AkramFaluji.MucjamSaghir (TAGS: CENT1500,_TABAQAT,_TARAJIM)`
 * `1450CabdRahmanAlShaykh.Mashahir (TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM)`
 * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya (TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB)`
