@@ -57,7 +57,7 @@
 
 
 
-# 1500AH [[ [Re]generated on 2016-08-18 (17:44:38) ]]
+# 1500AH [[ [Re]generated on 2016-08-18 (18:17:26) ]]
 
 * `1405CaliShahrudi.Mustadrakat `
     * TAGS: CENT1500,PPE,SHC,_HADITH,_SHICI,_TARAJIM
@@ -85,6 +85,8 @@
     * TAGS: CENT1500,_TABAQAT,_TARAJIM
 * `1450CabdRahmanAlShaykh.Mashahir `
     * TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM
+* `1450MajmacFikrIslami.MawsucaMuallifiImamiya `
+    * TAGS: CENT1500,PPE,_FAHARIS,_KUTUB
 * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya `
     * TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB
 * `1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin `
