@@ -106,11 +106,12 @@
 
 
 
-# 1500AH [[ [Re]generated on 2016-10-16 (23:19:53) ]]
+# 1500AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
 
 * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1408CumarKahhala.MucjamMuallifin (TAGS: BIB, BIO, CENT1500, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
 * `1408CumarKahhala.MucjamQabail (TAGS: CENT1500, COL, GEN, PPE, _ANSAB, _MACAJIM)`
+* `1409IbnSayyidCajamiMisri.HidayatQari (TAGS: CENT1500, _CULUM, _QURAN)`
 * `1411SayyidKhui.MucjamRijal (TAGS: CENT1500, PPE, _HADITH, _SHICI, _TARAJIM)`
 * `1411SayyidMarcashi.SharhIhqaq (TAGS: CENT1500, _CAQAID, _SHICI, _TWELVERS)`
 * `1414SalimIbadi.IscafAcyan (TAGS: CENT1500, _ANSAB)`
