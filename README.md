@@ -138,7 +138,7 @@
 
 
 
-# 1500AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
+# 1500AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
 
 * `1405CaliShahrudi.MustadrakSafinatBihar (TAGS: CENT1500, _HADITH, _SHICI)`
 * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
@@ -177,6 +177,9 @@
 * `1450AbuTayyibMansuri.Irshad (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
 * `1450AkramFaluji.MucjamSaghir (TAGS: CENT1500, _TABAQAT, _TARAJIM)`
 * `1450AkramFaluji.MucjamShuyukhTabari (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
+* `1450CabdAllahBusayri.AbyatMukhtara (TAGS: _ADAB, _BALAGHA, _CENT00NO)`
+* `1450CabdAllahBusayri.Hajj (TAGS: _BUHUTH, _CENT00NO, _MASAIL)`
+* `1450CabdAllahBusayri.MucjamAhammMusannafat (TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB)`
 * `1450CabdRahmanAlShaykh.Mashahir (TAGS: CENT1500, PPE, _TABAQAT, _TARAJIM)`
 * `1450CadilNuwayhid.MucjamAclamJazair (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
 * `1450CulamaNajd.DurarSaniyya (TAGS: _CENT00NO, _FATAWA)`
