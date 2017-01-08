@@ -140,7 +140,7 @@
 
 
 
-# 1500AH [[ [Re]generated on 2017-01-04 (16:16:12) ]]
+# 1500AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
 
 * `1405CaliShahrudi.MustadrakSafinatBihar (TAGS: CENT1500, _HADITH, _SHICI)`
 * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
@@ -175,30 +175,31 @@
 * `1424IhsanCabbas.ShadharatMinKutubMafquda (TAGS: CENT1500, PPE, _FAHARIS, _TARIKH)`
 * `1424IhsanCabbas.ShicrKhawarij (TAGS: CENT1500, _ADAB, _BALAGHA)`
 * `1429BakrIbnCabdAllah.TabaqatNassabin (TAGS: CENT1500, _TABAQAT, _TARAJIM)`
-* `1430IbnJibrin.Fatawa (TAGS: _CENT00NO, _FATAWA)`
-* `1450AbuTayyibMansuri.Irshad (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
+* `1430IbnJibrin.Fatawa (TAGS: _FATAWA)`
+* `1450AbuTayyibMansuri.Irshad (TAGS: _TABAQAT, _TARAJIM)`
 * `1450AkramFaluji.MucjamSaghir (TAGS: CENT1500, _TABAQAT, _TARAJIM)`
-* `1450AkramFaluji.MucjamShuyukhTabari (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
-* `1450CabdAllahBusayri.AbyatMukhtara (TAGS: _ADAB, _BALAGHA, _CENT00NO)`
-* `1450CabdAllahBusayri.Hajj (TAGS: _BUHUTH, _CENT00NO, _MASAIL)`
-* `1450CabdAllahBusayri.MucjamAhammMusannafat (TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB)`
+* `1450AkramFaluji.MucjamShuyukhTabari (TAGS: _TABAQAT, _TARAJIM)`
+* `1450CabdAllahBusayri.AbyatMukhtara (TAGS: _ADAB, _BALAGHA)`
+* `1450CabdAllahBusayri.Hajj (TAGS: _BUHUTH, _MASAIL)`
+* `1450CabdAllahBusayri.MucjamAhammMusannafat (TAGS: _ADILLA, _FAHARIS, _KUTUB)`
 * `1450CabdRahmanAlShaykh.Mashahir (TAGS: CENT1500, PPE, _TABAQAT, _TARAJIM)`
-* `1450CadilNuwayhid.MucjamAclamJazair (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
-* `1450CulamaNajd.DurarSaniyya (TAGS: _CENT00NO, _FATAWA)`
+* `1450CadilNuwayhid.MucjamAclamJazair (TAGS: _TABAQAT, _TARAJIM)`
+* `1450CulamaNajd.DurarSaniyya (TAGS: _FATAWA)`
 * `1450DarIftaMisriyya.FatawaDarIfta (TAGS: CENT1500, _FATAWA)`
+* `1450IbnMukhtarSusi.DalilMuallafatMukhtar (TAGS: _ADILLA, _FAHARIS, _KUTUB)`
 * `1450JamicaIslamiyya.MajallaJIMN (TAGS: CENT1500, _MAJALLAT, _MAJMUCAT)`
-* `1450LajnaDaima.Fatawa (TAGS: _CENT00NO, _FATAWA)`
+* `1450LajnaDaima.Fatawa (TAGS: _FATAWA)`
 * `1450Maghrawi.MawsucaMawaqifSalaf (TAGS: CENT1500, _CAQAID)`
 * `1450MajmacFikrIslami.MawsucaMuallifiImamiya (TAGS: CENT1500, PPE, _FAHARIS, _KUTUB)`
-* `1450MawqicIslam.Fatawa (TAGS: _CENT00NO, _FATAWA)`
+* `1450MawqicIslam.Fatawa (TAGS: _FATAWA)`
 * `1450MawsucaShicriya.MucjamShucara (TAGS: _CENT1500, _TABAQAT, _TARAJIM)`
 * `1450Milani.NafahatAzhar (TAGS: CENT1500, _CAQAID, _SHICI, _TWELVERS)`
 * `1450Milani.SharhMinhajKaramaLiHilli (TAGS: CENT0800, _CAQAID, _SHICI, _TWELVERS)`
 * `1450Milani.TashyidMurajacat (TAGS: CENT1500, _CAQAID, _SHICI, _TWELVERS)`
 * `1450MuhammadAbtahi.TahdhibMaqal (TAGS: CENT1500, PPE, _HADITH, _SHICI, _TARAJIM)`
 * `1450MuhammadCijajKhatib.AbuHurayra (TAGS: CENT1500, _DACWA)`
-* `1450MuhammadCijajKhatib.LamahatFiMaktaba (TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB)`
-* `1450MuhammadCijajKhatib.SunnaQablaTadwin (TAGS: _CENT00NO, _CULUM, _HADITH)`
+* `1450MuhammadCijajKhatib.LamahatFiMaktaba (TAGS: _ADILLA, _FAHARIS, _KUTUB)`
+* `1450MuhammadCijajKhatib.SunnaQablaTadwin (TAGS: _CULUM, _HADITH)`
 * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya (TAGS: BIB, CENT1500, PPE, _FAHARIS, _KUTUB)`
 * `1450MuhammadHadiYusufi.MawsucatTarikhIslam (TAGS: CENT1500, _TARIKH)`
 * `1450MuhammadJawahiri.MucjamTabaatIrth (TAGS: CENT1500, _AFTER800, _FIQH, _SHICI)`
@@ -214,12 +215,12 @@
 * `1450SadiqRuhani.MasailMuntakhaba (TAGS: CENT1500, _FATAWA, _FIQH, _SHICI)`
 * `1450SadiqRuhani.MinhajSalihin (TAGS: CENT1500, _FATAWA, _FIQH, _SHICI)`
 * `1450SadiqRuhani.TakmilaMinhajSalihin (TAGS: CENT1500, _FATAWA, _FIQH, _SHICI)`
-* `1450SalahMahmudKhaymi.FaharisCulumQuran (TAGS: _ADILLA, PPE, _CENT00NO, _FAHARIS, _KUTUB)`
-* `1450SalihFawzan.MajmucFatawa (TAGS: _CENT00NO, _FATAWA)`
-* `1450TarhibDawsari.MucjamMuallafatMalikiyya (TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB)`
-* `1450TarhibDawsari.MucjamMuallafatShaficiyya (TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB)`
+* `1450SalahMahmudKhaymi.FaharisCulumQuran (TAGS: _ADILLA, PPE, _FAHARIS, _KUTUB)`
+* `1450SalihFawzan.MajmucFatawa (TAGS: _FATAWA)`
+* `1450TarhibDawsari.MucjamMuallafatMalikiyya (TAGS: _ADILLA, _FAHARIS, _KUTUB)`
+* `1450TarhibDawsari.MucjamMuallafatShaficiyya (TAGS: _ADILLA, _FAHARIS, _KUTUB)`
 * `1450WahidKhurasani.MinhajSalihin (TAGS: CENT1500, _FATAWA, _FIQH, _SHICI)`
-* `1450WalidUmawi.MucjamAshabIbnTaymiyya (TAGS: _CENT00NO, PPE, _TABAQAT, _TARAJIM)`
+* `1450WalidUmawi.MucjamAshabIbnTaymiyya (TAGS: PPE, _TABAQAT, _TARAJIM)`
 * `1450WizaraAwqafMisriyya.TarajimMujaza (TAGS: CENT1500, _TABAQAT, _TARAJIM)`
 
 
