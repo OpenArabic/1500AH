@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 1500AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 1500AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `1405CaliShahrudi.MustadrakSafinatBihar (TAGS: CENT1500, _HADITH, _SHICI)`
 * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
@@ -174,6 +174,7 @@
 * `1422MuqbilWadici.TarajimRijal (TAGS: CENT1500, PPE, _TABAQAT, _TARAJIM)`
 * `1424IhsanCabbas.ShadharatMinKutubMafquda (TAGS: CENT1500, PPE, _FAHARIS, _TARIKH)`
 * `1424IhsanCabbas.ShicrKhawarij (TAGS: CENT1500, _ADAB, _BALAGHA)`
+* `1424MuhammadCaliAbtahi.TarikhAlZarara (TAGS: CENT0400, _HADITH, PPE, _SHICI, _TARAJIM)`
 * `1429BakrIbnCabdAllah.TabaqatNassabin (TAGS: CENT1500, _TABAQAT, _TARAJIM)`
 * `1430IbnJibrin.Fatawa (TAGS: _FATAWA)`
 * `1450AbuTayyibMansuri.Irshad (TAGS: _TABAQAT, _TARAJIM)`
